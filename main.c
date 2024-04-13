@@ -2,7 +2,7 @@
 
 int main() {
 
-	printf("branch 1");
+	printf("branch 2");
 
 	return 0;
 }
